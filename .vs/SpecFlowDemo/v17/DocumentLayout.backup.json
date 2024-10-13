@@ -1,0 +1,183 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vivek\\source\\repos\\SpecFlowDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9EA8A8E6-DAC0-4CF7-BF38-FA19F2396050}|SpecFlowDemo\\SpecFlowDemo.csproj|c:\\users\\vivek\\source\\repos\\specflowdemo\\specflowdemo\\stepdefinitions\\deletestepdefination.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EA8A8E6-DAC0-4CF7-BF38-FA19F2396050}|SpecFlowDemo\\SpecFlowDemo.csproj|solutionrelative:specflowdemo\\stepdefinitions\\deletestepdefination.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EA8A8E6-DAC0-4CF7-BF38-FA19F2396050}|SpecFlowDemo\\SpecFlowDemo.csproj|c:\\users\\vivek\\source\\repos\\specflowdemo\\specflowdemo\\stepdefinitions\\poststepdefination.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EA8A8E6-DAC0-4CF7-BF38-FA19F2396050}|SpecFlowDemo\\SpecFlowDemo.csproj|solutionrelative:specflowdemo\\stepdefinitions\\poststepdefination.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EA8A8E6-DAC0-4CF7-BF38-FA19F2396050}|SpecFlowDemo\\SpecFlowDemo.csproj|c:\\users\\vivek\\source\\repos\\specflowdemo\\specflowdemo\\stepdefinitions\\getstepdefination.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EA8A8E6-DAC0-4CF7-BF38-FA19F2396050}|SpecFlowDemo\\SpecFlowDemo.csproj|solutionrelative:specflowdemo\\stepdefinitions\\getstepdefination.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EA8A8E6-DAC0-4CF7-BF38-FA19F2396050}|SpecFlowDemo\\SpecFlowDemo.csproj|c:\\users\\vivek\\source\\repos\\specflowdemo\\specflowdemo\\stepdefinitions\\putstepdefination.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EA8A8E6-DAC0-4CF7-BF38-FA19F2396050}|SpecFlowDemo\\SpecFlowDemo.csproj|solutionrelative:specflowdemo\\stepdefinitions\\putstepdefination.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EA8A8E6-DAC0-4CF7-BF38-FA19F2396050}|SpecFlowDemo\\SpecFlowDemo.csproj|c:\\users\\vivek\\source\\repos\\specflowdemo\\specflowdemo\\features\\delete.feature||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{9EA8A8E6-DAC0-4CF7-BF38-FA19F2396050}|SpecFlowDemo\\SpecFlowDemo.csproj|solutionrelative:specflowdemo\\features\\delete.feature||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EA8A8E6-DAC0-4CF7-BF38-FA19F2396050}|SpecFlowDemo\\SpecFlowDemo.csproj|c:\\users\\vivek\\source\\repos\\specflowdemo\\specflowdemo\\features\\get.feature||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{9EA8A8E6-DAC0-4CF7-BF38-FA19F2396050}|SpecFlowDemo\\SpecFlowDemo.csproj|solutionrelative:specflowdemo\\features\\get.feature||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EA8A8E6-DAC0-4CF7-BF38-FA19F2396050}|SpecFlowDemo\\SpecFlowDemo.csproj|c:\\users\\vivek\\source\\repos\\specflowdemo\\specflowdemo\\features\\post.feature||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{9EA8A8E6-DAC0-4CF7-BF38-FA19F2396050}|SpecFlowDemo\\SpecFlowDemo.csproj|solutionrelative:specflowdemo\\features\\post.feature||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EA8A8E6-DAC0-4CF7-BF38-FA19F2396050}|SpecFlowDemo\\SpecFlowDemo.csproj|c:\\users\\vivek\\source\\repos\\specflowdemo\\specflowdemo\\features\\put.feature||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{9EA8A8E6-DAC0-4CF7-BF38-FA19F2396050}|SpecFlowDemo\\SpecFlowDemo.csproj|solutionrelative:specflowdemo\\features\\put.feature||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EA8A8E6-DAC0-4CF7-BF38-FA19F2396050}|SpecFlowDemo\\SpecFlowDemo.csproj|c:\\users\\vivek\\source\\repos\\specflowdemo\\specflowdemo\\implicitusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EA8A8E6-DAC0-4CF7-BF38-FA19F2396050}|SpecFlowDemo\\SpecFlowDemo.csproj|solutionrelative:specflowdemo\\implicitusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 227,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DeleteStepDefination.cs",
+              "DocumentMoniker": "C:\\Users\\vivek\\source\\repos\\SpecFlowDemo\\SpecFlowDemo\\StepDefinitions\\DeleteStepDefination.cs",
+              "RelativeDocumentMoniker": "SpecFlowDemo\\StepDefinitions\\DeleteStepDefination.cs",
+              "ToolTip": "C:\\Users\\vivek\\source\\repos\\SpecFlowDemo\\SpecFlowDemo\\StepDefinitions\\DeleteStepDefination.cs",
+              "RelativeToolTip": "SpecFlowDemo\\StepDefinitions\\DeleteStepDefination.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T23:54:39.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Delete.feature",
+              "DocumentMoniker": "C:\\Users\\vivek\\source\\repos\\SpecFlowDemo\\SpecFlowDemo\\Features\\Delete.feature",
+              "RelativeDocumentMoniker": "SpecFlowDemo\\Features\\Delete.feature",
+              "ToolTip": "C:\\Users\\vivek\\source\\repos\\SpecFlowDemo\\SpecFlowDemo\\Features\\Delete.feature",
+              "RelativeToolTip": "SpecFlowDemo\\Features\\Delete.feature",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-12T23:54:11.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PutStepDefination.cs",
+              "DocumentMoniker": "C:\\Users\\vivek\\source\\repos\\SpecFlowDemo\\SpecFlowDemo\\StepDefinitions\\PutStepDefination.cs",
+              "RelativeDocumentMoniker": "SpecFlowDemo\\StepDefinitions\\PutStepDefination.cs",
+              "ToolTip": "C:\\Users\\vivek\\source\\repos\\SpecFlowDemo\\SpecFlowDemo\\StepDefinitions\\PutStepDefination.cs",
+              "RelativeToolTip": "SpecFlowDemo\\StepDefinitions\\PutStepDefination.cs",
+              "ViewState": "AgIAABwAAAAAzMzMzMwQwCYAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T23:37:05.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PUT.feature",
+              "DocumentMoniker": "C:\\Users\\vivek\\source\\repos\\SpecFlowDemo\\SpecFlowDemo\\Features\\PUT.feature",
+              "RelativeDocumentMoniker": "SpecFlowDemo\\Features\\PUT.feature",
+              "ToolTip": "C:\\Users\\vivek\\source\\repos\\SpecFlowDemo\\SpecFlowDemo\\Features\\PUT.feature",
+              "RelativeToolTip": "SpecFlowDemo\\Features\\PUT.feature",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-12T23:36:41.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PostStepDefination.cs",
+              "DocumentMoniker": "C:\\Users\\vivek\\source\\repos\\SpecFlowDemo\\SpecFlowDemo\\StepDefinitions\\PostStepDefination.cs",
+              "RelativeDocumentMoniker": "SpecFlowDemo\\StepDefinitions\\PostStepDefination.cs",
+              "ToolTip": "C:\\Users\\vivek\\source\\repos\\SpecFlowDemo\\SpecFlowDemo\\StepDefinitions\\PostStepDefination.cs",
+              "RelativeToolTip": "SpecFlowDemo\\StepDefinitions\\PostStepDefination.cs",
+              "ViewState": "AgIAAB8AAADAzMzMzMw9wCUAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T22:21:36.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "POST.feature",
+              "DocumentMoniker": "C:\\Users\\vivek\\source\\repos\\SpecFlowDemo\\SpecFlowDemo\\Features\\POST.feature",
+              "RelativeDocumentMoniker": "SpecFlowDemo\\Features\\POST.feature",
+              "ToolTip": "C:\\Users\\vivek\\source\\repos\\SpecFlowDemo\\SpecFlowDemo\\Features\\POST.feature",
+              "RelativeToolTip": "SpecFlowDemo\\Features\\POST.feature",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-12T22:14:45.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GetStepDefination.cs",
+              "DocumentMoniker": "C:\\Users\\vivek\\source\\repos\\SpecFlowDemo\\SpecFlowDemo\\StepDefinitions\\GetStepDefination.cs",
+              "RelativeDocumentMoniker": "SpecFlowDemo\\StepDefinitions\\GetStepDefination.cs",
+              "ToolTip": "C:\\Users\\vivek\\source\\repos\\SpecFlowDemo\\SpecFlowDemo\\StepDefinitions\\GetStepDefination.cs",
+              "RelativeToolTip": "SpecFlowDemo\\StepDefinitions\\GetStepDefination.cs",
+              "ViewState": "AgIAAB8AAACAzMzMzMwiwCgAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T18:01:45.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Get.feature",
+              "DocumentMoniker": "C:\\Users\\vivek\\source\\repos\\SpecFlowDemo\\SpecFlowDemo\\Features\\Get.feature",
+              "RelativeDocumentMoniker": "SpecFlowDemo\\Features\\Get.feature",
+              "ToolTip": "C:\\Users\\vivek\\source\\repos\\SpecFlowDemo\\SpecFlowDemo\\Features\\Get.feature",
+              "RelativeToolTip": "SpecFlowDemo\\Features\\Get.feature",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-12T17:56:52.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ImplicitUsings.cs",
+              "DocumentMoniker": "C:\\Users\\vivek\\source\\repos\\SpecFlowDemo\\SpecFlowDemo\\ImplicitUsings.cs",
+              "RelativeDocumentMoniker": "SpecFlowDemo\\ImplicitUsings.cs",
+              "ToolTip": "C:\\Users\\vivek\\source\\repos\\SpecFlowDemo\\SpecFlowDemo\\ImplicitUsings.cs",
+              "RelativeToolTip": "SpecFlowDemo\\ImplicitUsings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T18:10:31.418Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 173,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
